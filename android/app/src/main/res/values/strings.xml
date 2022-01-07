@@ -1,0 +1,7 @@
+<resources>
+
+<string name="app_name">message_app</string>
+<string name="facebook_app_id">619763592589595</string>
+<string name="fb_login_protocol_scheme">fb619763592589595</string>
+
+</resources>
